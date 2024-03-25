@@ -8,9 +8,9 @@ An AI software engineer and proud graduate of the Tunisian Military Academy. Wit
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [oumarkh1997@gmail.com](mailto:oumarkh1997@gmail.com)
-* 🧠  I'm learning further building a stronger background in AI
+* 🧠  I'm learning to further build a stronger background in AI
 * 🤝  I'm open to collaborating on real life solving problems applications
-* ⚡  I like anime, it's not secret
+* ⚡  I like anime, it's not a secret
 
 ### Skills
 
